@@ -13,6 +13,8 @@
 		D978489A2C097016003884C3 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D97848992C097016003884C3 /* Preview Assets.xcassets */; };
 		D97848A12C09703F003884C3 /* Book.swift in Sources */ = {isa = PBXBuildFile; fileRef = D97848A02C09703F003884C3 /* Book.swift */; };
 		D97848A32C0970E6003884C3 /* AddBookView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D97848A22C0970E6003884C3 /* AddBookView.swift */; };
+		D97848A52C0974C2003884C3 /* RatingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D97848A42C0974C2003884C3 /* RatingView.swift */; };
+		D97848A72C0989C9003884C3 /* EmojiRatingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D97848A62C0989C9003884C3 /* EmojiRatingView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +25,8 @@
 		D97848992C097016003884C3 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		D97848A02C09703F003884C3 /* Book.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Book.swift; sourceTree = "<group>"; };
 		D97848A22C0970E6003884C3 /* AddBookView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddBookView.swift; sourceTree = "<group>"; };
+		D97848A42C0974C2003884C3 /* RatingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RatingView.swift; sourceTree = "<group>"; };
+		D97848A62C0989C9003884C3 /* EmojiRatingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmojiRatingView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +61,8 @@
 			children = (
 				D97848922C097013003884C3 /* BookwormAppApp.swift */,
 				D97848A22C0970E6003884C3 /* AddBookView.swift */,
+				D97848A42C0974C2003884C3 /* RatingView.swift */,
+				D97848A62C0989C9003884C3 /* EmojiRatingView.swift */,
 				D97848A02C09703F003884C3 /* Book.swift */,
 				D97848942C097013003884C3 /* ContentView.swift */,
 				D97848962C097016003884C3 /* Assets.xcassets */,
@@ -146,6 +152,8 @@
 				D97848952C097013003884C3 /* ContentView.swift in Sources */,
 				D97848932C097013003884C3 /* BookwormAppApp.swift in Sources */,
 				D97848A12C09703F003884C3 /* Book.swift in Sources */,
+				D97848A52C0974C2003884C3 /* RatingView.swift in Sources */,
+				D97848A72C0989C9003884C3 /* EmojiRatingView.swift in Sources */,
 				D97848A32C0970E6003884C3 /* AddBookView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
